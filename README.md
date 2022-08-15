@@ -9,4 +9,4 @@ Basically is a new kind of reverse geoIP lookup.
 
 bash city2networks.sh ISO_COUNTRY_CODE City
 
-example : city2networks.sh VA Rome
+Example: bash city2networks.sh VA Rome
