@@ -1,7 +1,7 @@
 # city2networks
 
 
-Only scripted tool able to return all the IPs (must be assigned and not blank in the maxmind DB) for a given city.
+Only scripted tool able to return all the IPs (must have a city and not blank in the maxmind DB) for a given city.
 Basically is a new kind of reverse geoIP lookup.
 
 
