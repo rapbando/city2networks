@@ -7,6 +7,6 @@ Basically is a new kind of reverse geo IP lookup.
 
 ### Usage:
 
-bash city2networks.sh ISO_COUNTRY_CODE City
+`bash city2networks.sh ISO_COUNTRY_CODE City`
 
-Example: bash city2networks.sh VA Rome
+Example: `bash city2networks.sh VA Rome`
